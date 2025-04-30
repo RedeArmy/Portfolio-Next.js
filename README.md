@@ -33,27 +33,44 @@ npm install
 
 ### 4. Run the project
 npm run dev
+The app will be available at http://localhost:3000.
 
 ### Project Structure
 eder-portfolio/
+
 ├── public/                # Public files (images, fonts, etc.)
+
 ├── src/                   # Source code of the project
+
 │   ├── app/               # Next.js components and pages
+
 │   ├── components/        # Reusable components (header, footer, etc.)
+
 │   ├── styles/            # Style files (global CSS, Tailwind)
+
 │   └── utils/             # Utility functions and helpers
+
 ├── .gitignore             # Files and folders to ignore in Git
+
 ├── next.config.js         # Next.js configuration
+
 ├── package.json           # Dependencies and scripts
+
 ├── tailwind.config.js     # Tailwind CSS configuration
+
 └── README.md              # This file
 
 ### Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request. Make sure to follow best development practices and maintain clean, well-documented code.
 
 **Eder Yafeth Garcia Quiroa**
+
 **Backend/Frontend Developer**
+
 **Email:** ey16_619@hotmail.com
+
 **GitHub:** [eder-yafeth](https://github.com/RedeArmy)
+
 **LinkedIn:** [eder-yafeth](https://www.linkedin.com/in/eder-garcia-q/)
+
 
