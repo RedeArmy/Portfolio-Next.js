@@ -33,6 +33,7 @@ npm install
 
 ### 4. Run the project
 npm run dev
+
 The app will be available at http://localhost:3000.
 
 ### Project Structure
